@@ -1,0 +1,148 @@
+
+@font-face {
+    font-family: Roboto;
+    src: url("./fonts/Roboto-VariableFont_wdth\,wght.ttf");
+}
+
+
+.hello{
+    background-color: #6610f2;
+    color: white;
+}
+.navstart{
+   box-shadow: 0px 5.33px 80px 0px #0000001A !important;
+   
+  
+}
+
+.spann{
+    color: #5E3BEE !important;
+}
+.bot{
+    border: 1.33px solid #5E3BEE !important;
+}
+.hnnn{
+    background: #F5FCFF !important;
+
+}
+.heroo{
+    justify-content: center !important;
+    padding-left: 25px !important;
+}
+.byy{
+    width: 100% !important;
+    height: 180px !important;
+    border-radius: 6px !important;
+    padding: 12px !important;
+    
+    font-size: 14px !important;
+    outline: none !important;
+    justify-content: start !important;
+    
+}
+.mid{
+     text-decoration: none !important;
+    font-size: 15px !important;
+    color: black !important;
+}
+.endingg{
+    background-color: #F5FCFF !important;
+}
+.button:hover{
+    color: inherit !important;
+  background-color: inherit !important;
+  pointer-events: auto !important;
+}
+.terms-box{
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+}
+
+.terms-box label{
+    cursor: pointer !important;
+    color: #030303 !important;
+    font-size: 14px !important;
+}
+
+.links li a{
+    gap: 16.71px !important;
+    font-size: 16px !important;
+}
+.end{
+    justify-content: end !important;
+    
+}
+.ulink{
+justify-content: center !important;
+}
+.fine{
+    justify-content: center !important;
+}
+
+.almost{
+    border-color: #5E3BEE !important;
+    color: #5E3BEE !important;
+    padding: 11px 15px !important;
+    
+}
+.hiii{
+    top: 0 !important;
+   position: sticky !important;
+}
+/* .container{
+    background: #F5FCFF;
+} */
+ .heading{
+    font-size: 50px !important;
+ }
+ .box{
+    width: 100%;
+    /* box-sizing: 100px !important; */
+ }
+ .num{
+     border-color: #ffffff !important;
+    color: #0a0a0a !important;
+    padding: 11px 15px !important;
+
+ }
+ 
+
+ 
+ .project-card{
+    box-shadow: 0px 5.33px 16px 0px #00000026 !important;
+    border-radius: 5px !important;
+
+}
+.div1{
+    width: 350px !important;
+
+}
+.features{
+    background: #F5FCFF !important;
+    width: 100% !important;
+
+}
+.herosection{
+    background: #F5FCFF !important;
+
+}
+.feedback{
+    background: #F5FCFF !important;
+
+}
+.third{
+    width: 400px !important;
+height: 300px !important;
+angle: 0 deg !important;
+opacity: 1 !important;
+gap: 10 !important;
+border-radius: 8px !important;
+border-width: 1.33px !important;
+padding: 20.67px !important;
+border: 1.33px solid #006B6A !important;
+
+justify-content: space-between !important;
+
+
+}
